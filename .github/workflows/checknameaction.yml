@@ -18,9 +18,9 @@ jobs:
       - name: Check if README contains my name ('Alice' - case insensitive)
         run: |
           if ! grep -Ei "alice" README.md; then
-            echo "You CANNOT commit! README.md does not contain the name 'Alice' - case insensitive."
+            echo "Error: README.md does not contain the name 'Alice' - case insensitive."
             exit 1
           fi
   
       - name: Success Message
-        run: echo "You can commit! README.md contains the name 'Alice' - case insensitive."
+        run: echo "No problem: README.md contains the name 'Alice' - case insensitive."

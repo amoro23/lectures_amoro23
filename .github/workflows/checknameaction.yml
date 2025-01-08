@@ -23,4 +23,4 @@ jobs:
           fi
   
       - name: Success Message
-        run: echo "No problem: README.md contains the name 'Alice' - case insensitive."
+        run: echo "Ok, README.md contains the name 'Alice' - case insensitive."

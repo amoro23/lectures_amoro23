@@ -1,0 +1,9 @@
+Metadata-Version: 2.1
+Name: mymodule_amoro23
+Version: 0.0.1
+Summary: My first module, it draws 10 random circles
+Home-page: https://github.com/amoro23
+Author: Alice Moro
+Author-email: a.moro23@campus.unimib.it
+Requires-Dist: numpy
+Requires-Dist: matplotlib

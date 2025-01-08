@@ -1,0 +1,9 @@
+README.md
+setup.py
+mymodule/__init__.py
+mymodule/circles.py
+mymodule_amoro23.egg-info/PKG-INFO
+mymodule_amoro23.egg-info/SOURCES.txt
+mymodule_amoro23.egg-info/dependency_links.txt
+mymodule_amoro23.egg-info/requires.txt
+mymodule_amoro23.egg-info/top_level.txt
